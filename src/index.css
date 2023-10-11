@@ -74,12 +74,21 @@ button:focus-visible {
   justify-content: space-between;
 }
 
+.dark-mode {
+  background-color: black;
+}
+
+.dark-mode h1 {
+  color: white;
+}
+
 .container {
   max-width: 960px;
   margin-right: auto;
   margin-left: auto;
   padding-right: 15px;
   padding-left: 15px; 
+  min-height: 100vh;
 }
 
 .notes-list {
