@@ -23,8 +23,23 @@ function App() {
     },
     {
       id: nanoid(),
+      text: "clothing to buy: henley shirt, leather jacket, leather boots",
+      date: "18/10/2023",
+    },
+    {
+      id: nanoid(),
+      text: "books to re-read: Butter Honey Pig Bread",
+      date: "20/10/2023",
+    },
+    {
+      id: nanoid(),
+      text: "send cold emails till you get hired💀",
+      date: "25/10/2023",
+    },
+    {
+      id: nanoid(),
       text: "react is fun",
-      date: "13/10/2023",
+      date: "30/10/2023",
     },
   ]);
 
