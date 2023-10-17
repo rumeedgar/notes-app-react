@@ -79,11 +79,7 @@ button:focus-visible {
 }
 
 .dark-mode h1 {
-  color: black;
-}
-
-.dark-mode h2 {
-  color: black;
+  color: white;
 }
 
 .container {
