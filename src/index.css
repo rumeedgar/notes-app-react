@@ -82,6 +82,10 @@ button:focus-visible {
   color: black;
 }
 
+.dark-mode h2 {
+  color: black;
+}
+
 .container {
   max-width: 960px;
   margin-right: auto;
